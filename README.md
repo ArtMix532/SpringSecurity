@@ -13,21 +13,24 @@ Aplicação back-end construída com **Spring Boot 4** e **Spring Security**, fo
 ### Registro de novo usuário
 > Criação de conta, envio do e-mail de confirmação e verificação do token.
 
-<!-- GIF: registro de um novo cliente -->
+![Registro de Novo User](Fotos/register.gif)
+
 
 ---
 
 ### Login com Google
 > Autenticação via OAuth2 com conta Google, sem necessidade de senha.
 
-<!-- GIF: login com google -->
+![Login com conta Google](Fotos/RegisterGoogle.gif)
+
 
 ---
 
 ### Confirmação de e-mail e login
 > Fluxo completo: recebimento do e-mail, clique no link de confirmação e login na aplicação.
 
-<!-- GIF: confirmação por email e login -->
+![Email e Login](Fotos/EmailLogin.gif)
+
 
 ---
 
