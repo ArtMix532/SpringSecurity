@@ -34,5 +34,6 @@ build/
 
 
 #Secret files
+.env
 *.env
 *.key
